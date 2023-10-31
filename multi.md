@@ -1,16 +1,3 @@
-MFC의 SDI기반으로
-가장 간단한 멀티테스킹 예제를 하나를 구현하시오.
-[제출]
-
-Github에 제출한다.
-설명을 자세히 적는다.
-
-소감을 적는다.
-[채점]
-1. 제출하였다. 3
-2. 예제가 우수하다 +1
-3. 후반기 수업에 대한 각오가 있다. +1
-
 ### 결과화면
 ![image](https://github.com/qkrgudals1030/mutitasking/assets/50895124/28eb47e7-db25-4039-a95a-add513ca7c34)
 ![image](https://github.com/qkrgudals1030/mutitasking/assets/50895124/81e8a24f-d1a3-4c13-a4c4-48cb4caab50b)
