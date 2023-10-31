@@ -13,6 +13,8 @@ Github에 제출한다.
 
 ### 결과화면
 ![image](https://github.com/qkrgudals1030/mutitasking/assets/50895124/28eb47e7-db25-4039-a95a-add513ca7c34)
+![image](https://github.com/qkrgudals1030/mutitasking/assets/50895124/81e8a24f-d1a3-4c13-a4c4-48cb4caab50b)
+
 
 ### 설명
 제가 마든 예제는 수업시간에 배운PreTranslateMessage 예제를 SDI기반의 펜만들기에 삽입하여 펜그리기를 수행하면서 키보들 누르게되면 키보드가 눌렸습니다라는 메시지를 출력하는 멀티테스킹 예제를 만들어 보았습니다 펜 만들기에는 메뉴를 통해 색상 변경기능과 굵기 설정을 할 수 있도록 설정하였습니다. 
